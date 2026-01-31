@@ -30,5 +30,8 @@
     <ClCompile Include="螺旋数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="移除链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
